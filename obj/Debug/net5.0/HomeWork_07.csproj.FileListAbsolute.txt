@@ -1,0 +1,32 @@
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.csprojAssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\bin\Debug\net5.0\HomeWork_07.exe
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\bin\Debug\net5.0\HomeWork_07.deps.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\bin\Debug\net5.0\HomeWork_07.runtimeconfig.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\bin\Debug\net5.0\HomeWork_07.runtimeconfig.dev.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\bin\Debug\net5.0\HomeWork_07.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\bin\Debug\net5.0\ref\HomeWork_07.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\bin\Debug\net5.0\HomeWork_07.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\ref\HomeWork_07.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_07\HomeWork_07\obj\Debug\net5.0\HomeWork_07.genruntimeconfig.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\ref\HomeWork_07.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\bin\Debug\net5.0\HomeWork_07.exe
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\bin\Debug\net5.0\HomeWork_07.deps.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\bin\Debug\net5.0\HomeWork_07.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\bin\Debug\net5.0\HomeWork_07.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\bin\Debug\net5.0\HomeWork_07.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\bin\Debug\net5.0\ref\HomeWork_07.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\bin\Debug\net5.0\HomeWork_07.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_07\homework_07\obj\Debug\net5.0\HomeWork_07.genruntimeconfig.cache
